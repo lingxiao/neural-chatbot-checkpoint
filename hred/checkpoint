@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data2/xiao/neural-chatbot-checkpoint/hred/hred-movie.ckpt"
+all_model_checkpoint_paths: "/data2/xiao/neural-chatbot-checkpoint/hred/hred-movie.ckpt"
